@@ -7,3 +7,5 @@ The data file is too big to upload to github.
 The link to download the data as a CSV is here: https://data.cityofnewyork.us/api/views/ez4e-fazm/rows.csv?accessType=DOWNLOAD
 
 The API endpoint is: https://data.cityofnewyork.us/resource/fbkk-fqs7.csv
+
+The OData V4 endpoint is: https://data.cityofnewyork.us/api/odata/v4/ez4e-fazm
